@@ -5,8 +5,11 @@ study: Project Vault at Covenant National Bank.
 
 ## What's Inside
 datasets/covenant_pl/v2.1.0/
+
 ├── DATA_DICTIONARY.md       Full schema documentation for all datasets
+
 ├── raw_tables/              Source data tables (9 datasets)
+
 └── prebuilt_datasets/       Pre-built modeling datasets for the hackathon
 
 ## Setup
